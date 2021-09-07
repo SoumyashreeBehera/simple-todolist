@@ -1,0 +1,30 @@
+.section {
+  background-color: #cecece;
+  width: 500px;
+  margin: 50px auto;
+}
+.inputTodoBox {
+  padding: 7px 4%;
+  display: flex;
+  width: 300px;
+  margin: 0px auto;
+  justify-content: center;
+  /* background-color: blue; */
+}
+.inputbox {
+  width: 70%;
+  padding: 5%;
+  margin: 5% 2%;
+  text-decoration: none;
+  border: none;
+  font-size: 20px;
+  border-radius: 10px;
+}
+.addButton {
+  padding: 4% 6%;
+  border: none;
+  font-size: 25px;
+  background-color: white;
+  border-radius: 10px;
+  margin: auto;
+}
